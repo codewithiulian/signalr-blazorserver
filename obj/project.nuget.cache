@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYA0BDlCuSz4chqzvZqt8ayOtqKxu6F07a+oxC12/qQ8X36US1/6VnHcZVHMu93o6TiDBCTjqW0/M7+M31DqfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Code with Julian\\2021\\40. Blazor Server SignalR\\Project\\tutorial\\chatty\\Chatty\\Chatty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.10\\microsoft.aspnetcore.connections.abstractions.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.10\\microsoft.aspnetcore.http.connections.client.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.10\\microsoft.aspnetcore.http.connections.common.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.10\\microsoft.aspnetcore.http.features.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.10\\microsoft.aspnetcore.signalr.client.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.10\\microsoft.aspnetcore.signalr.client.core.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.10\\microsoft.aspnetcore.signalr.common.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.10\\microsoft.aspnetcore.signalr.protocols.json.5.0.10.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\iulianoana\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
